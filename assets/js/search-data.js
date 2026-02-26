@@ -440,16 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-joined-the-department-of-machine-learning-and-systems-biology-at-the-max-planck-institute-of-biochemistry-as-a-postdoctoral-researcher-sparkles",
+          title: 'Joined the Department of Machine Learning and Systems Biology at the Max Planck...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
