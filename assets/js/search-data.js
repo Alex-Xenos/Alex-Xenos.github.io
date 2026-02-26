@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-the-department-of-machine-learning-and-systems-biology-at-the-max-planck-institute-of-biochemistry-as-a-postdoctoral-researcher-sparkles",
+            },},{id: "news-awarded-the-ai4science-postdoctoral-fellowship-by-the-spanish-ministry-of-science-tada",
+          title: 'Awarded the AI4Science Postdoctoral Fellowship by the Spanish Ministry of Science! :tada:',
+          description: "",
+          section: "News",},{id: "news-joined-the-department-of-machine-learning-and-systems-biology-at-the-max-planck-institute-of-biochemistry-as-a-postdoctoral-researcher-sparkles",
           title: 'Joined the Department of Machine Learning and Systems Biology at the Max Planck...',
           description: "",
           section: "News",},{id: "projects-project-1",
