@@ -298,6 +298,8 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  sort_by: year
+  order: descending
   query: "@*"
   group_by: year
   group_order: descending
