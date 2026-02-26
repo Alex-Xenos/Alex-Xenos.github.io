@@ -12,4 +12,6 @@ assets/libs/
 assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
-vendor
+vendornode_modules/
+package.json
+package-lock.json
