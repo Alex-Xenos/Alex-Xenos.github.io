@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-04-06'
 papers:
   UKXZZJUAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -26,6 +26,6 @@ papers:
     title: Linear functional organization of the omic embedding space
     year: '2021'
   UKXZZJUAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: Simplifying complex machine learning by linearly separable network embedding spaces
     year: '2024'
